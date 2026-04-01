@@ -5,7 +5,7 @@ This project uses YOLOv5 for waste detection and ByteTrack for tracking.
 
 ## Files
 - tracking.py → main code
-- best.pt → trained model (shared separately)
+- best.pt → trained model (shared via Google Drive)
 - input.mp4 → sample input
 - output.mp4 → output result
 
@@ -18,4 +18,4 @@ This project uses YOLOv5 for waste detection and ByteTrack for tracking.
 
 ## Model
 Download model from:
-[PASTE YOUR GOOGLE DRIVE LINK HERE]
+https://drive.google.com/file/d/1317QJN3rkK-IebzWMCiRasReoXWlIF41/view?usp=drive_link
